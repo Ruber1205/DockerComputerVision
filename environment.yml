@@ -1,0 +1,17 @@
+name: opencv
+channels:
+  - defaults
+dependencies:
+  - ipywidgets
+  - ipykernel
+  - python=3
+  - numpy
+  - matplotlib
+  - libopencv
+  - opencv
+  - pillow
+  - bokeh
+  - pandas
+  - tensorflow
+  - scikit-learn
+  - scikit-image
